@@ -1,0 +1,113 @@
+[FPS减速器] FpsReducer2-forge-1.19.2-2.1.jar
+[JEI工作方块] JustEnoughProfessions-forge-1.19.2-2.0.2.jar
+[JEI物品管理器] jei-1.19.2-forge-11.6.0.1015.jar
+[JEI生物掉落物显示]JustEnoughResources-1.19.2-1.2.2.200.jar
+[JEI药水效果] jeed-1.19.2-2.1.3.jar
+[Macaw的栅栏与墙] mcw-fences-1.0.7-mc1.19.2forge.jar
+[Macaw的桥梁] mcw-bridges-2.0.7-mc1.19.2forge.jar
+[Macaw的活板门] mcw-trapdoors-1.1.0-mc1.19.2forge.jar
+[Macaw的灯] mcw-lights-1.0.5-mc1.19.2forge.jar
+[Macaw的画] mcw-paintings-1.0.4-mc1.19.2.jar
+[Macaw的窗户] mcw-windows-2.1.1-mc1.19.2forge.jar
+[Macaw的门] mcw-doors-1.0.9forge-mc1.19.2.jar
+[Xaero的世界地图] XaerosWorldMap_1.30.3_Forge_1.19.1.jar
+[Xaero的小地图] Xaeros_Minimap_23.4.4_Forge_1.19.1.jar
+[一键背包整理Next] InventoryProfilesNext-forge-1.19-1.10.2.jar
+[万用皮肤补丁] CustomSkinLoader_ForgeActive-14.16.jar
+[丰富的生态] ecologics-forge-1.19.2-2.1.11.jar
+[作物盛景] Croptopia-1.19.2-FORGE-2.2.2.jar
+[你瞅啥]wthit-forge-5.16.1.jar
+[农场贸易] farmingforblockheads-forge-1.19.2-11.3.0.jar
+[农夫乐事] FarmersDelight-1.19-1.2.1.jar
+[冰山] Iceberg-1.19.2-forge-1.1.4.jar
+[凡家物语：重生] minecraft-comes-alive-7.5.1+1.19.2-universal.jar
+[前置]architectury-6.5.85-forge.jar
+[前置]badpackets-forge-0.2.1.jar
+[前置]balm-forge-1.19.2-4.5.7.jar
+[前置]cloth-config-8.2.88-forge.jar
+[前置]collective-1.19.2-6.53.jar
+[前置]CreativeCore_FORGE_v2.9.3_mc1.19.2.jar
+[前置]curios-forge-1.19.2-5.1.4.1.jar
+[前置]geckolib-forge-1.19-3.1.40.jar
+[前置]kotlinforforge-3.12.0-all.jar
+[前置]libIPN-forge-1.19-3.0.1.jar
+[前置]libraryferret-forge-1.19.2-4.0.0.jar
+[前置]oculus-mc1.19.2-1.2.8a.jar
+[前置]PuzzlesLib-v4.4.0-1.19.2-Forge.jar
+[前置]YungsApi-1.19.2-Forge-3.8.9.jar
+[动物喂养槽] animal_feeding_trough-1.0.3+1.19.2-forge.jar
+[失落废墟] Rex's-AdditionalStructures-1.19.x-(v.4.0.3).jar
+[奇异饰品] artifacts-1.19.2-5.0.2.jar
+[实体渲染机制优化] entityculling-forge-1.6.1-mc1.19.2.jar
+[崩溃优化] notenoughcrashes-4.2.1+1.19.2-forge.jar
+[帕秋莉手册] Patchouli-1.19.2-77.jar
+[席地而坐] sit-1.19-1.3.3.jar
+[拾取提示] PickUpNotifier-v4.2.4-1.19.2-Forge.jar
+[新-3D三明治]some-assembly-required-1.19.2-3.0.2.jar
+[新-储物抽屉] StorageDrawers-1.19-11.1.2.jar
+[新-储物抽屉渲染配置] drawerfps-1.19.2-1.8.jar
+[新-农夫乐事兼容性mod]nocube's_farmers_compats_1.0.0_Forge_1.19.2.jar
+[新-凋零声音屏蔽]bwncr-forge-1.19.2-3.14.1.jar
+[新-前置]moonlight-1.19.2-2.2.37-forge.jar
+[新-新-内存泄露修复]memoryleakfix-forge-1.17+-1.0.0.jar
+[新-新-快速加载]Fastload-Reforged-2.6.9+1.19.2.jar
+[新-新-新-新 FTB前置]ftb-library-forge-1902.3.19-build.214.jar
+[新-新-新-新FTB 团队] ftb-teams-forge-1902.2.13-build.100.jar
+[新-新-新-新FTB任务]ftb-quests-forge-1902.4.16-build.235.jar
+[新-新-新-新物品过滤器] item-filters-forge-1902.2.9-build.51.jar
+[新-新-新-沉浸式绘画]immersive_paintings-0.6.0+1.19.2-forge.jar
+[新-新-星光]starlight-1.1.1+forge.cf5b10b.jar
+[新-新-生物渲染优化]entityculling-forge-1.6.1-mc1.19.2.jar
+[新-新生魔艺] ars_nouveau-1.19.2-3.15.1.jar
+[新-机械动力：中央厨房] create_central_kitchen-1.19.2-for-create-0.5.1.b-1.3.7.jar
+[新-机械动力：咖啡馆] createcafe-1.1.8-1.19.2.jar
+[新-机械动力：实用物件] create_misc_and_things_  1.19.2_3.0.jar
+[新-机械动力：晶莹剔透] create_crystal_clear-0.2.1-1.19.2.jar
+[新-机械动力：物品附加] create-stuff-additions1.19.2_v2.0.3b.jar
+[新-机械动力：甜食] create-confectionery1.19.2_v1.0.9.jar
+[新-机械动力：附属]createaddition-1.19.2-20230527a.jar
+[新-机械动力：附魔工业] create_enchantment_industry-1.19.2-for-create-0.5.1.b-1.2.4.jar
+[新-水产业2／水产品2] Aquaculture-1.19.2-2.4.8.jar
+[新-深岩之下] DarkerDepths-1.19.2-1.0.0.jar
+[新-经验机制改革] Clumps-forge-1.19.2-9.0.0+14.jar
+[新-自动汉化更新] I18nUpdateMod-3.4.2-all.jar
+[新-铁氧体磁芯] ferritecore-5.0.3-forge.jar
+[新-锦致装饰] supplementaries-1.19.2-2.3.17.jar
+[新5-游戏阶段] GameStages-Forge-1.19.2-11.1.4.jar
+[新5-游戏阶段前置]Bookshelf-Forge-1.19.2-16.3.20.jar
+[新5-物品阶段] ItemStages-Forge-1.19.2-5.0.2.jar
+[新5-蒸汽朋克]Laendli_1.7.4(for_1.19.2).jar
+[新6-FTB基础命令]ftb-essentials-forge-1902.3.2-build.85.jar
+[新6-FTB权限]ftb-ranks-forge-1902.1.15-build.77.jar
+[新6-别再说我的对话不安全啦！]NoChatReports-FORGE-1.19.2-v1.5.1.jar
+[新6-维度阶段] DimensionStages-1.19.2-4.0.4.jar
+[新6-配方阶段] RecipeStages-4.0.0.4.jar
+[旅行者标题]TravelersTitles-1.19.2-Forge-3.1.2.jar
+[旅行者背包] TravelersBackpack-1.19.2-8.2.25.jar
+[时装盔甲重置版] CosmeticArmorReworked-1.19.2-v1a.jar
+[更好的F3] BetterF3-4.0.0-Forge-1.19.2.jar
+[更好的村庄]bettervillage-forge-1.19.2-3.1.0.jar
+[更好的第三人称]BetterThirdPerson-Forge-1.19-1.9.0.jar
+[更好的运行时资源包] brrp-forge-1.0.0-1.19.2.jar
+[机械动力] create-1.19.2-0.5.1.b.jar
+[游戏内账号切换] InGameAccountSwitcher-Forge-1.19-8.0.1.jar
+[火花] spark-1.10.37-forge.jar
+[生物群系改造] biomemakeover-FORGE-1.19.2-1.6.4.jar
+[简居]SimplyHouses-1.1.3-1.19-forge.jar
+[耐久信息显示] durabilityviewer-1.19.1-forge42.0.1-1.10.jar
+[聊天头像] chat_heads-0.10.14-forge-1.19.2.jar
+[自定义三明治] culinaryconstruct-forge-5.0.0+1.19.2.jar
+[自定义鞘翅]customizableelytra-1.19.0-1.7.4.jar
+[自然主义] naturalist-forge-3.0.3a-1.19.2.jar
+[自然罗盘／生物群系指南针] NaturesCompass-1.19.2-1.10.0-forge.jar
+[自然音效] AmbientSounds_FORGE_v5.2.13_mc1.19.2.jar
+[苹果皮] appleskin-forge-mc1.19-2.4.2.jar
+[虹影]oculus-flywheel-compat-1.19.2-0.1.8-BETA.jar
+[输入法冲突修复] imblocker-1.19.2-3.1.2.jar
+[进度牌匾] AdvancementPlaques-1.19.2-1.4.7.jar
+[铷] rubidium-0.6.2a.jar
+[键位冲突显示] Controlling-forge-1.19.2-10.0+7.jar
+[随机绵羊颜色] randomsheepcolours-1.19.2-3.1.jar
+[飞轮] flywheel-forge-1.19.2-0.6.8.a.jar
+[魔改]CraftTweaker-forge-1.19.2-10.1.44.jar
+[鼠标手势] MouseTweaks-forge-mc1.19-2.23.jar
