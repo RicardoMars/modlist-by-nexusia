@@ -36,7 +36,6 @@
 [前置]PuzzlesLib-v4.4.0-1.19.2-Forge.jar
 [前置]YungsApi-1.19.2-Forge-3.8.9.jar
 [动物喂养槽] animal_feeding_trough-1.0.3+1.19.2-forge.jar
-[失落废墟] Rex's-AdditionalStructures-1.19.x-(v.4.0.3).jar
 [奇异饰品] artifacts-1.19.2-5.0.2.jar
 [实体渲染机制优化] entityculling-forge-1.6.1-mc1.19.2.jar
 [崩溃优化] notenoughcrashes-4.2.1+1.19.2-forge.jar
