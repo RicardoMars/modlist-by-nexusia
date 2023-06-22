@@ -82,7 +82,7 @@
 [新6-维度阶段] DimensionStages-1.19.2-4.0.4.jar
 [新6-配方阶段] RecipeStages-4.0.0.4.jar
 [新7-墓碑]gravestone-1.19.2-1.0.1.jar
-[新8-结构变体]repurposed_structures_forge-6.3.24+1.19.2.jar
+[新8-结构变体]repurposed_structures_forge-6.3.24 1.19.2.jar
 [旅行者标题]TravelersTitles-1.19.2-Forge-3.1.2.jar
 [旅行者背包] TravelersBackpack-1.19.2-8.2.25.jar
 [时装盔甲重置版] CosmeticArmorReworked-1.19.2-v1a.jar
